@@ -1,0 +1,1 @@
+Notes from [Gilbert Strang's course on linear algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D).
